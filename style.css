@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#5FD2B5,#FFDC73);
+}
+
+h1 {
+    text-align: center;
+}
+img{
+    border: 3px inset blue;
+}
